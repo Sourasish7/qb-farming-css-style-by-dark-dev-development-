@@ -3,15 +3,8 @@ International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
-# qb-simplefarming
+# farming script
 Farming script for QBCore
-
-## Install Video
-https://youtu.be/StGCE_eDFUU
 
 Included
 - Easy to use config
@@ -95,7 +88,4 @@ Included
 ![Preview Screenshot](https://forum.cfx.re/uploads/default/original/4X/a/f/6/af673ae283e9baaddbfb9c10460b1924fa22ccde.jpeg)
 
 ## Discord
-- [Join Discord](https://discord.gg/T2xX5WwmEX)
-
-## Support
-- [Ko-fi Link](https://ko-fi.com/trclassic)
+- [Join Discord](https://discord.gg/T2xX5WwmEX](https://discord.gg/wqTHRAFcSS)
