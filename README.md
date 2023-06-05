@@ -76,7 +76,7 @@ Included
     ["hotsauce"] = math.random(10, 15),
 ```
 
-## QB-Target and menu is all done within the config of qb-simplefarming/config.lua
+## QB-Target and menu is all done within the config of qb-farming/config.lua
 
 ## Preview's
 ![Preview Screenshot](https://forum.cfx.re/uploads/default/original/4X/5/e/b/5ebc74391935523b26adb582ecd8137ce98e10ef.jpeg)
